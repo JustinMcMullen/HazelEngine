@@ -4,7 +4,7 @@ class Sandbox : public Hazel::Application
 {
 public:
 	Sandbox() {
-	
+
 	}
 
 	~Sandbox() {
@@ -12,7 +12,7 @@ public:
 	}
 
 };
-	
+
 Hazel::Application* Hazel::CreateApplication() {
 	return new Sandbox();
 }
