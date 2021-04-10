@@ -3,7 +3,7 @@
 // For use by Hazel applications only.
 
 #include "Hazel/Application.h"
-#include<stdio.h> //REMOVE
+#include "Hazel/Log.h"
 
 // ----------Entry point -------
 #include "Hazel/EntryPoint.h"
