@@ -5,8 +5,6 @@
 #include "Core.h"
 #include "spdlog/spdlog.h"
 
-#pragma warning(disable:4996)
-
 namespace Hazel {
 
 	class HAZEL_API Log
